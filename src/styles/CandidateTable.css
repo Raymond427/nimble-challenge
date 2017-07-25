@@ -1,0 +1,8 @@
+.CandidateTable {
+   border-collapse: collapse;
+   width: 90%;
+   margin: 20px auto;
+   font-family: Arial;
+   font-size: 16px;
+   color: grey;
+}
